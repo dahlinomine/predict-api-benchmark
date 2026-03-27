@@ -1,0 +1,14 @@
+{
+  "name": "predict-api-benchmark",
+  "version": "0.1.0",
+  "description": "Benchmarking tool for latency in various prediction market APIs",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "dev": "ts-node src/index.ts"
+  },
+  "license": "MIT",
+  "keywords": []
+}
